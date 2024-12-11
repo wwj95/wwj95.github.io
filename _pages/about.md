@@ -18,7 +18,7 @@ The AI Security, Privacy, and Robustness Lab (ASPIRE LAb), led by Dr. Wenjie Wan
 
 ## News
 
-[20240314] CIDER is accepted to EMNLP2024 Findings🎉
+[20240922] CIDER is accepted to EMNLP2024 Findings🎉
 
 [Yue Xu, Xiuyuan Qi, Zhan Qin, Wenjie Wang， 2024. Cross-modality Information Check for Detecting Jailbreaking in Multimodal Large Language Models.]（https://arxiv.org/abs/2407.21659）
 

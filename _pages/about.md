@@ -17,6 +17,13 @@ University](https://www.emory.edu/home/index.html) (@Atlanta, US) under the supe
 The AI Security, Privacy, and Robustness Lab (ASPIRE LAb), led by Dr. Wenjie Wang, is a pioneering research group dedicated to enhancing the responsibility, reliability, privacy, and trustworthiness of cutting-edge AI technologies, particularly Large Language Models (LLMs) and Multi-Modal models. The ASPIRE lab's mission is to  develop novel techniques and methodologies that address the unique challenges posed by the increasing complexity of modern AI systems.
 
 ## News
+
+[20240314] CIDER is accepted to EMNLP2024 Findings🎉
+
+[Yue Xu, Xiuyuan Qi, Zhan Qin, Wenjie Wang， 2024. Cross-modality Information Check for Detecting Jailbreaking in Multimodal Large Language Models.]（https://arxiv.org/abs/2407.21659）
+
+<img src="/images/1EMNLP.png" width="400" height="200"> 
+
 [20240314] LinkPrompt is accepted to NAACL2024🎉
 
 [Yue Xu and Wenjie Wang. 2024. LinkPrompt: Natural and Universal Adversarial Attacks on Prompt-based Language Models.](https://aclanthology.org/2024.naacl-long.360.pdf)

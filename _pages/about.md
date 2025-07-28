@@ -3,9 +3,12 @@ permalink: /
 title: "About Me"
 ---
 
-Wenjie Wang  is an assistant Professor (tenure-track) at School of Information Science and Technology in the ShanghaiTech University. Dr.Wang completed her Ph.D. in 2023 at [Emory University](https://www.emory.edu/home/index.html) (@Atlanta, US) under the supervision of [Dr.Li Xiong](https://www.cs.emory.edu/~lxiong/). Before that, she received the Bachelor degree at [Huazhong University of Science and Technology](https://english.hust.edu.cn/)(@Wuhan, China) in 2017. Her major research interest can be listed as:
+Wenjie Wang  is an assistant Professor (tenure-track) at School of Information Science and Technology in the ShanghaiTech University. Dr.Wang completed her Ph.D. in 2023 at [Emory University](https://www.emory.edu/home/index.html) (@Atlanta, US) under the supervision of [Dr.Li Xiong](https://www.cs.emory.edu/~lxiong/). Before that, she received the Bachelor degree at [Huazhong University of Science and Technology](https://english.hust.edu.cn/)(@Wuhan, China) in 2017. As the first or corresponding author, Dr.Wang has contributed to more than 20 papers in top-tier journals and conferences. 
+
+Her major research interest can be listed as:
 * Safety Alignment of LLM: Ensuring model outputs consistently adhere to ethical guidelines, avoid harmful content, and respect human intent, even in adversarial scenarios. 
 * Personlized Alignment of LLM: Adapting LLMs to align with individual users’ values, preferences, and communication styles.
+* AI Agent Safety: Studying the robustness of Agent safety from the perspective of perception, reasoning, planning, action and multi-agent collaboration. 
 * Privacy Preserving LLM: Differential Privacy, Machine Unlearning, Federated Learning
 
 ### 我们正在招2026秋季入学的硕士和博士研究生，欢迎对以上方向感兴趣的同学附上简历联系我wangwj1@shanghaitech.edu.cn.

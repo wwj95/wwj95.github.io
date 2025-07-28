@@ -3,7 +3,7 @@ permalink: /
 title: "About Me"
 ---
 
-Wenjie Wang  is an assistant Professor (tenure-track) at School of Information Science and Technology in the ShanghaiTech University. Dr.Wang completed her Ph.D. in 2023 at [Emory University](https://www.emory.edu/home/index.html) (@Atlanta, US) under the supervision of [Dr.Li Xiong](https://www.cs.emory.edu/~lxiong/). Before that, she received the Bachelor degree at [Huazhong University of Science and Technology](https://english.hust.edu.cn/)(@Wuhan, China) in 2017. As the first or corresponding author, Dr.Wang has contributed to more than 20 papers in top-tier journals and conferences. 
+Wenjie Wang  is an assistant Professor (tenure-track) at School of Information Science and Technology in the ShanghaiTech University. Dr.Wang completed her Ph.D. in 2023 at [Emory University](https://www.emory.edu/home/index.html) (@Atlanta, US) under the supervision of [Dr.Li Xiong](https://www.cs.emory.edu/~lxiong/). Before that, she received the Bachelor degree at [Huazhong University of Science and Technology](https://english.hust.edu.cn/)(@Wuhan, China) in 2017. As the first or corresponding author, Dr.Wang has contributed to more than 20 papers in top-tier journals and conferences. She also served as the Area Chair for ACL and EMNLP.
 
 Her major research interest can be listed as:
 * Safety Alignment of LLM: Ensuring model outputs consistently adhere to ethical guidelines, avoid harmful content, and respect human intent, even in adversarial scenarios. 

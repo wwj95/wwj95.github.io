@@ -19,6 +19,15 @@ Her major research interest can be listed as:
 The AI Security, Privacy, and Robustness Lab (ASPIRE LAb), led by Dr. Wenjie Wang, is a pioneering research group dedicated to enhancing the responsibility, reliability, privacy, and trustworthiness of cutting-edge AI technologies, particularly Large Language Models (LLMs), Multi-Modal models and AI Agents. The ASPIRE lab's mission is to  develop novel techniques and methodologies that address the unique challenges posed by the increasing complexity of modern AI systems.
 
 ## News
+
+[20250919] Fairmaker is accepted to EMNLP2025🎉
+
+[Yue Xu, Chengyan Fu, Li Xiong, Sibei Yang, Wenjie Wang. Auto-Search and Refinement: An Automated Framework for Gender Bias Mitigation in Large Language Models](https://arxiv.org/abs/2502.11559)
+
+[20250822] ADPO is accepted to EMNLP2025🎉
+
+[Fenghua Weng, Jian Lou, Jun Feng, Minlie Huang, Wenjie Wang. Adversary-Aware DPO: Enhancing Safety Alignment in Vision Language Models via Adversarial Training](https://arxiv.org/abs/2502.11455)
+
 [20250516] Two papers are accepted to ACL2025🎉
 
 [Yi Wang, Fenghua Weng, Sibei Yang, Zhan Qin, Minlie Huang, Wenjie Wang. DELMAN: Dynamic Defense Against Large Language Model Jailbreaking with Model Editing.](https://arxiv.org/abs/2502.11647)

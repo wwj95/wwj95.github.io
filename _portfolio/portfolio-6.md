@@ -1,6 +1,6 @@
 ---
 title: "ACL2025"
-excerpt: <img src="/images/1ACL2025-1.png" width = "300" width = "500">
+excerpt: <img src="/images/1ACL2025-1.png" width = "200" width = "300">
 collection: portfolio
 ---
 

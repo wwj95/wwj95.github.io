@@ -20,7 +20,7 @@ The AI Security, Privacy, and Robustness Lab (ASPIRE LAb), led by Dr. Wenjie Wan
 
 ## News
 
-[20250919] Fairmaker is accepted to EMNLP2025🎉
+[20250919] Fairmaker is accepted to NIPS2025🎉
 
 [Yue Xu, Chengyan Fu, Li Xiong, Sibei Yang, Wenjie Wang. Auto-Search and Refinement: An Automated Framework for Gender Bias Mitigation in Large Language Models](https://arxiv.org/abs/2502.11559)
 

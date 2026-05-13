@@ -11,7 +11,7 @@ Her major research interest can be listed as:
 * AI Agent Safety: Studying the robustness of Agent safety from the perspective of perception, reasoning, planning, action and multi-agent collaboration. 
 * Privacy Preserving LLM: Differential Privacy, Machine Unlearning, Federated Learning
 
-### 我们正在招2026秋季入学的硕士和博士研究生，欢迎对以上方向感兴趣的同学附上简历联系我wangwj1@shanghaitech.edu.cn.
+### 我们正在招2027秋季入学的硕士和博士研究生，欢迎对以上方向感兴趣的同学附上简历联系我wangwj1@shanghaitech.edu.cn.
 
 ## About ASPIRE Lab 
 <img src="/images/1Lablogo.png" width="400" height="200">
@@ -19,9 +19,9 @@ Her major research interest can be listed as:
 The AI Security, Privacy, and Robustness Lab (ASPIRE LAb), led by Dr. Wenjie Wang, is a pioneering research group dedicated to enhancing the responsibility, reliability, privacy, and trustworthiness of cutting-edge AI technologies, particularly Large Language Models (LLMs), Multi-Modal models and AI Agents. The ASPIRE lab's mission is to  develop novel techniques and methodologies that address the unique challenges posed by the increasing complexity of modern AI systems.
 
 ## News
-[20260510] One paper is accepter to TPAMI🎉
+[20260510] One paper is accepted to TPAMI🎉
 
-[20260126] Thress paper is accepted to ICLR2026🎉
+[20260126] Thress papers are accepted to ICLR2026🎉
 
 [Tianyu Chen, Jian Lou, Wenjie Wang. Safeguarding Multimodal Knowledge Copyright in the RAG-as-a-Service Environment.](https://arxiv.org/abs/2506.10030)
 
